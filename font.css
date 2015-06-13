@@ -1,6 +1,6 @@
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-Black.eot');
     src: url('font/SourceSans-Black.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-Black.woff2') format('woff2'),
@@ -13,7 +13,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-BlackItalic.eot');
     src: url('font/SourceSans-BlackItalic.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-BlackItalic.woff2') format('woff2'),
@@ -26,7 +26,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-Bold.eot');
     src: url('font/SourceSans-Bold.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-Bold.woff2') format('woff2'),
@@ -39,7 +39,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-BoldItalic.eot');
     src: url('font/SourceSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-BoldItalic.woff2') format('woff2'),
@@ -52,7 +52,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-SemiBold.eot');
     src: url('font/SourceSans-SemiBold.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-SemiBold.woff2') format('woff2'),
@@ -65,7 +65,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-SemiBoldItalic.eot');
     src: url('font/SourceSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-SemiBoldItalic.woff2') format('woff2'),
@@ -78,7 +78,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-Italic.eot');
     src: url('font/SourceSans-Italic.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-Italic.woff2') format('woff2'),
@@ -91,7 +91,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-Regular.eot');
     src: url('font/SourceSans-Regular.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-Regular.woff2') format('woff2'),
@@ -104,7 +104,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-Light.eot');
     src: url('font/SourceSans-Light.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-Light.woff2') format('woff2'),
@@ -117,7 +117,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-LightItalic.eot');
     src: url('font/SourceSans-LightItalic.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-LightItalic.woff2') format('woff2'),
@@ -130,7 +130,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-Extralight.eot');
     src: url('font/SourceSans-Extralight.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-Extralight.woff2') format('woff2'),
@@ -143,7 +143,7 @@
 
 
 @font-face {
-    font-family: 'Source Sans';
+    font-family: 'Source Sans Pro';
     src: url('font/SourceSans-ExtralightItalic.eot');
     src: url('font/SourceSans-ExtralightItalic.eot?#iefix') format('embedded-opentype'),
          url('font/SourceSans-ExtralightItalic.woff2') format('woff2'),

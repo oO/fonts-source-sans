@@ -19,7 +19,7 @@ Usage
 To install in a Bower project
 
 ```
-bower install --save git+ssh://git@git.ozoux.com/fonts/sourcesans.git
+bower install --save git+ssh://git@git.ozoux.com/fonts/source-sans.git
 ```
 
-Then add the `font-sourcesans/font.css` file to your project
+Then add the `font-source-sans/font.css` file to your project
