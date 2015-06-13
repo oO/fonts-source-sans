@@ -131,12 +131,12 @@
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: url('font/SourceSans-Extralight.eot');
-    src: url('font/SourceSans-Extralight.eot?#iefix') format('embedded-opentype'),
-         url('font/SourceSans-Extralight.woff2') format('woff2'),
-         url('font/SourceSans-Extralight.woff') format('woff'),
-         url('font/SourceSans-Extralight.ttf') format('truetype'),
-         url('font/SourceSans-Extralight.svg#SourceSansExtralight') format('svg');
+    src: url('font/SourceSans-ExtraLight.eot');
+    src: url('font/SourceSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
+         url('font/SourceSans-ExtraLight.woff2') format('woff2'),
+         url('font/SourceSans-ExtraLight.woff') format('woff'),
+         url('font/SourceSans-ExtraLight.ttf') format('truetype'),
+         url('font/SourceSans-ExtraLight.svg#SourceSansExtraLight') format('svg');
     font-weight: 100;
     font-style: normal;
 }
@@ -144,12 +144,12 @@
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: url('font/SourceSans-ExtralightItalic.eot');
-    src: url('font/SourceSans-ExtralightItalic.eot?#iefix') format('embedded-opentype'),
-         url('font/SourceSans-ExtralightItalic.woff2') format('woff2'),
-         url('font/SourceSans-ExtralightItalic.woff') format('woff'),
-         url('font/SourceSans-ExtralightItalic.ttf') format('truetype'),
-         url('font/SourceSans-ExtralightItalic.svg#SourceSansExtralight_Italic') format('svg');
+    src: url('font/SourceSans-ExtraLightItalic.eot');
+    src: url('font/SourceSans-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+         url('font/SourceSans-ExtraLightItalic.woff2') format('woff2'),
+         url('font/SourceSans-ExtraLightItalic.woff') format('woff'),
+         url('font/SourceSans-ExtraLightItalic.ttf') format('truetype'),
+         url('font/SourceSans-ExtraLightItalic.svg#SourceSansExtraLight_Italic') format('svg');
     font-weight: 100;
     font-style: italic;
 }
