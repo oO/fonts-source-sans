@@ -1,0 +1,19 @@
+{
+  "name": "font-sourcesans",
+  "description": "Font Source Sans",
+  "version": "1.0.0",
+  "keywords": [],
+  "homepage": "http://www.fontsquirrel.com/fonts/source-sans",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["OFL-1.1"],
+  "main": [
+    "./font.css",
+    "./font/*"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.json",
+    "src"
+  ]
+}
